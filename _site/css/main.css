@@ -1,0 +1,30 @@
+/* Custom CSS */
+html, body {
+  height: 100%;
+  font-family: "Amatic SC", cursive;
+  background-image: url("/img/background.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+h1, h2, h3, h4 {
+  font-family: "Amatic SC", cursive; }
+
+#home-title {
+  padding-top: 25%;
+  color: white;
+  text-align: center;
+  height: 100%; }
+
+#home-title h1 {
+  font-size: 80px; }
+
+#home-down h1 {
+  text-align: center;
+  color: white;
+  font-size: 50px; }
+
+#home-intro {
+  background-color: white;
+  padding: 100px; }
